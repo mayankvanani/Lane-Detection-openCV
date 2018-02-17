@@ -10,9 +10,9 @@ There are two python files containing a distinct pipeline for **_lane-detection_
 ## User Manual
 _Steps to use this Repository_
 
-1.  watch the **solidWhiteRight.mp4**.
+1.  watch the **solidWhiteRight.mp4** in test_videos.
 2.  run the file **solidWhiteRight.py**  _(pipeline has been discussed further)_.
-3.  watch the **solidYellowLeft.mp4**.
+3.  watch the **solidYellowLeft.mp4** in test_videos.
 4.  run the file **solidWhiteRight.py**  _(pipeline has been discussed further)_.
 ---
 
